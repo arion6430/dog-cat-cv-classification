@@ -1,0 +1,14 @@
+data/
+notebooks/
+reports/
+.venv/
+venv/
+__pycache__/
+*.pyc
+.git/
+.gitignore
+.ipynb_checkpoints/
+.vscode/
+.idea/
+README.md
+CLAUDE.md
